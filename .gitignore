@@ -1,0 +1,21 @@
+# --- DATA FILES ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# --- JUPYTER NOTEBOOK ---
+.ipynb_checkpoints/
+
+# --- PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- MAC OS ---
+.DS_Store
+
+# --- MISC ---
+*.log
+*.tmp
